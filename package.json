@@ -1,0 +1,21 @@
+{
+  "name": "assumendavoluptatem",
+  "main": "js/eth-connectedpapers.module.js",
+  "description": "This module integrates links to Connected Papers in Primo VE if there is a DOI.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JavonteBeahan/assumendavoluptatem.git"
+  },
+  "author": "DejaPowlowski",
+  "license": "MIT",
+  "version": "1.10.0",
+  "keywords": [
+    "quibusdam"
+  ],
+  "dependencies": {
+    "delectustempore": "^1.0.0",
+    "impeditdolorem": "^1.2.0",
+    "quivoluptas": "^1.1.0",
+    "utex": "^1.1.1"
+  }
+}
